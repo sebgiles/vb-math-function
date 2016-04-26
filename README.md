@@ -1,5 +1,5 @@
 # vb-math-function
-Mathematical function abstraction featuring differentiation, implemented using recursion.
+Mathematical function abstraction featuring symbolic differentiation, implemented using recursion.
 
 Warning: API and code is in Italian.
 
